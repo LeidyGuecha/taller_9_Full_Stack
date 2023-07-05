@@ -7,8 +7,4 @@
 
 <h2>Punto 2: HTML</h2>
 <img src="./Public/Imagenes/html.png" alt="html">
-<img src="./Public/Imagenes/footer-logo.png"
-             alt="footer-logo"
-             width="200px"
-             height="175px">
 
