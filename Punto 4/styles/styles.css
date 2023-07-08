@@ -1,0 +1,14 @@
+#text-red{
+    color: red;
+}
+#text-blue{
+    color: blue;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+div{
+    padding: 25px 25px;
+}
