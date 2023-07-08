@@ -9,3 +9,24 @@ button{
     border-radius: 10px;
     padding: 10px 25px;
 }
+.button--orange{
+    margin-right: 10px;
+    background-color: #FD909E;
+    color: #fff;
+    border: none;
+}
+h2{
+    margin: 5px 0px;
+    color: #010851;
+    font-family: 'Jost';
+    font-size: 43px;
+    line-height:55px ;
+    letter-spacing: -0,64px;
+
+}
+p{
+    font-family: 'Jost';
+    font-size: 15px;
+    font-weight: 300;
+    color: #454868;
+}
