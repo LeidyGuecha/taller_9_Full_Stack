@@ -1,0 +1,23 @@
+div{
+    justify-content: center;
+    font-family: 'Lucida Sans Regular';
+    font-size: 18px;
+    background-color: rgb(215, 126, 231);
+    color: #fff;
+    padding:25px 130px;
+    margin: 25px 25px;
+}
+button{
+    background-color: blue;
+    font-family: 'Lucida Sans Regular';
+    color: #fff;
+    margin-right: 10px;
+    border: none;
+    cursor: pointer;
+    height: 70px;
+    width: 80px;
+    font-size: 18px;
+}
+span{
+    margin-right: 30px;
+}

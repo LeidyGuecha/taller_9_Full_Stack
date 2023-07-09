@@ -1,0 +1,12 @@
+#text-yellow{
+    color:rgb(252, 252, 94);
+}
+#text-purple{
+    color: rgb(245, 129, 245);
+}
+div{
+    padding: 25px 50px;
+    font-family: 'Arial';
+    font-size: 28px;
+    font-weight: 10px;
+}
