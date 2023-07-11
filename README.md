@@ -9,13 +9,20 @@
 <img src="./Punto 1-3/Public/Imagenes/html.png" alt="html">
 
 <h2>Punto 3: CSS</h2>
-<img scr="./Punto 1-3/Public/Imagenes/css.png" alt="css">
+<img src="./Punto 1-3/Public/Imagenes/css.png" alt="css">
 
 <h2>Punto 4: subtitulos </h2>
-<img scr= "./Public/Imagenes/punto 4.png" alt= "punto 4">
+<img src= "./Public/Imagenes/punto 4.png" alt= "punto 4">
+
+<h2>Punto 5: Textos</h2>
+<img src= "./Public/Imagenes/punto 5.png" alt="punto 5">
 
 <h2>Punto 6: Links </h2>
-<img scr="./Public/Imagenes/punto 6.png" alt="punto 6>
+<img src="./Public/Imagenes/punto 6.png" alt="punto 6">
 
-<h2>Punto 7: Footer</h2>
-<img scr= "./Public/Imagenes/punto 7.png" alt= "punto 7">
+<h2>Punto 7-8: Footer</h2>
+<img src= "./Public/Imagenes/punto 7.png" alt= "punto 7">
+
+<h2>Punto 9: Tabla</h2>
+<img src="./Public/Imagenes/punto 9.png" alt= "punto 9">
+

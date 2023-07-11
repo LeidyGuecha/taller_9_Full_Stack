@@ -1,0 +1,19 @@
+table{
+    border-collapse: collapse;
+    background-color: yellow;
+    padding: 50px 50px;
+    
+}
+table,tr,td{
+    border:2px dotted black;
+    justify-content: center;
+    
+}
+th{
+    color: red;
+    text-align: center;
+}
+div{
+    padding: 50px 80px;
+}
+
