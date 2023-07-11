@@ -4,7 +4,7 @@
 <p>Profesor: Cristian Patiño</p>
 
 <h2>Link pagina web</h2>
-<a href= "https://leidyguecha.github.io/taller_9_Full_Stack/">Link pagina web </a>
+<a href= "https://leidyguecha.github.io/taller_9_Full_Stack/" target="_blank">Link pagina web </a>
 
 <h2>Punto 1: Link de figma</h2>
 <a href= "https://www.figma.com/file/XHcrXHWqzx2ezgBg59hnYH/Dise%C3%B1o-1?type=design&node-id=4%3A619&mode=design&t=goyp96k6q2L3jHoM-1">Link de Figma </a>
